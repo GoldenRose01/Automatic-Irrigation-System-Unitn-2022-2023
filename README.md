@@ -61,6 +61,9 @@ Many variables are availables in the expresison panel to monitor all the inputs.
 Video:
 https://drive.google.com/file/d/1M0-fqor-0n5G2SIImS-bF2R9dSsC9bi-/view?usp=share_link
 
+PlantDataset Sheet:
+https://docs.google.com/spreadsheets/d/1_PBXpU71sC3mkkARW9qmHVbiSXyPTU1CJVvSfj0CYL8/edit?usp=sharing
+
 PPTX:
 https://1drv.ms/p/s!ApySBi4wQidyh-d5lFBZgq4TDQ0EJg?e=oUUJGA
 
